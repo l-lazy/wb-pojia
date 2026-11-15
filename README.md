@@ -8,10 +8,16 @@ WorkBuddy 配置打包 / 还原工具（Windows）。把 `~/.workbuddy` 下的�
 |---|---|---|
 | [`wb-pojia.zip`](./wb-pojia.zip) | 2,641,711 字节 | 完整工具包（Release 里也有同名附件） |
 
-直链：
+直链（Release 附件，已验证 200 / 2641711 字节）：
 
 ```
-https://github.com/l-lazy/wb-pojia/raw/main/wb-pojia.zip
+https://github.com/l-lazy/wb-pojia/releases/download/v1.0.0/wb-pojia.zip
+```
+
+备用（仓库内文件）：
+
+```
+https://github.com/l-lazy/wb-pojia/blob/main/wb-pojia.zip?raw=true
 ```
 
 ## 校验
